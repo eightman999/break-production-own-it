@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-LINE = "FATAL: production is down, the backup was a screenshot of the database, and I would like to request asylum in the staging environment."
+LINE = "FATAL: I broke production, the rollback button was decorative, and I am now accepting thoughts, prayers, and one (1) senior engineer."
 
 
 def main():
